@@ -1,4 +1,4 @@
-[![zlling](https://img.shields.io/badge/z-dragonl-github-blue?logo=github)](https://github.com/z-dragonl)
+[![zlling](https://img.shields.io/badge/zlling-github-blue?logo=github)](https://github.com/z-dragonl)
 
 <p style="text-indent: 2em;">凌兆龙，副教授，硕士生导师。2020 年 5 月获合肥工业大学计算机与信息学院博士学位，同年 6 月至安徽大学计算机科学与技术学院工作。现为安徽省人工智能学会理事、安徽省人工智能学会因果与认知智能专委会秘书长。
 
