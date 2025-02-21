@@ -23,4 +23,4 @@
 #### 软件包：
 
 [11] <strong>Zhaolong Ling</strong>, Kui Yu, Yiwen Zhang, Lin Liu, and Jiuyong Li. Causal learner: A toolbox for causal structure and Markov blanket learning[J]. Pattern Recognition Letters, 2022, 163: 92-95. （CCF-C）
-<br>[http://bigdata.ahu.edu.cn/causal-learner]
+<br>[https://z-dragonl.github.io/software]
