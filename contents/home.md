@@ -6,7 +6,12 @@
 
 #### Email
 
-<span style="color: #333;">zlling@ahu.edu.cn</span>
+<span style="
+  font-family: 'SimHei', sans-serif;
+  color: #000000;
+  text-decoration: none !important;
+  font-weight: normal;
+">zlling@ahu.edu.cn</span>
 
 #### Research Interests
 
