@@ -18,7 +18,7 @@
 
 [9] <strong>Zhaolong Ling</strong>, Kui Yu, Hao Wang, Lei Li, and Xindong Wu. Using Feature Selection for Local Causal Structure Learning[J]. IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI), 2021, 5(4): 530-540. （CAAI-B）
 
-[10] <strong>Zhaolong Ling</strong>, Kui Yu, Hao Wang, Lin Liu, Wei Ding, and Xindong Wu. BAMB: A Balanced Markov Blanket Discovery Approach to Feature Selection[J]. ACM Transactions on Intelligent Systems and Technology (TIST), 2019, 10(5): 1-25 （CAAI-B）
+[10] <strong>Zhaolong Ling</strong>, Kui Yu, Hao Wang, Lin Liu, Wei Ding, and Xindong Wu. BAMB: A Balanced Markov Blanket Discovery Approach to Feature Selection[J]. ACM Transactions on Intelligent Systems and Technology (TIST), 2019, 10(5): 1-25. （CAAI-B）
 
 #### 软件包：
 
