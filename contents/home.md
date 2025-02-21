@@ -6,7 +6,7 @@
 
 #### Email
 
-`zlling@ahu.edu.cn`
+<span>zlling@ahu.edu.cn</span>
 
 #### Research Interests
 
