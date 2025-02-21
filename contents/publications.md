@@ -14,8 +14,7 @@
 
 [7] <strong>Zhaolong Ling</strong>, Bo Li, Yiwen Zhang, Kui Yu, Qingren Wang, and Xindong Wu. Causal Feature Selection with Efficient Spouses Discovery[J]. IEEE Transactions on Big Data (TBD), 2023, 9(2): 555-568.（CCF-C）
 
-[8] <strong>Zhaolong Ling</strong>, Jingxuan Wu, Yiwen Zhang, Peng Zhou, Bingbing Jiang, Kui Yu, and Xindong Wu. Causal Feature Selection With Imbalanced Data[J]. IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI), 2024, Accepted.
-（CAAI-B）
+[8] <strong>Zhaolong Ling</strong>, Jingxuan Wu, Yiwen Zhang, Peng Zhou, Bingbing Jiang, Kui Yu, and Xindong Wu. Causal Feature Selection With Imbalanced Data[J]. IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI), 2024, Accepted.<br>（CAAI-B）
 
 [9] <strong>Zhaolong Ling</strong>, Kui Yu, Hao Wang, Lei Li, and Xindong Wu. Using Feature Selection for Local Causal Structure Learning[J]. IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI), 2021, 5(4): 530-540. （CAAI-B）
 
@@ -24,4 +23,4 @@
 #### 软件包：
 
 [11] <strong>Zhaolong Ling</strong>, Kui Yu, Yiwen Zhang, Lin Liu, and Jiuyong Li. Causal learner: A toolbox for causal structure and Markov blanket learning[J]. Pattern Recognition Letters, 2022, 163: 92-95. （CCF-C）
-[http://bigdata.ahu.edu.cn/causal-learner]
+<br>[http://bigdata.ahu.edu.cn/causal-learner]
