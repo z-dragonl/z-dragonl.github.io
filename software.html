@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="description" content="Academic Webpage" />
+    <meta name="author" content="zlling" />
+    <title id="title"></title>
+
+    <!-- Icon -->
+    <link rel="icon" type="image/x-icon" href="static/assets/favicon.ico" />
+
+    <!-- Bootstrap icons-->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css"
+      rel="stylesheet"
+    />
+
+    <!-- Google fonts-->
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,600;1,600&amp;display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,500;0,600;0,700;1,300;1,500;1,600;1,700&amp;display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;1,400&amp;display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link type="text/css" href="static/css/styles.css" rel="stylesheet" />
+    <link type="text/css" href="static/css/main.css" rel="stylesheet" />
+
+    <!-- Bootstrap core JS-->
+    <script
+      type="text/javascript"
+      src="static/js/bootstrap.bundle.min.js"
+    ></script>
+
+    <!-- For Compatability -->
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+    <!-- Markdown -->
+    <script type="text/javascript" src="static/js/marked.min.js"></script>
+
+    <!-- Mathematics -->
+    <script>
+      // See https://docs.mathjax.org/en/latest/index.html for more details.
+      MathJax = {
+        tex: {
+          packages: {}, // extensions to use
+          inlineMath: [
+            // start/end delimiter pairs for in-line math
+            ["$", "$"],
+            ["\\(", "\\)"],
+          ],
+          displayMath: [
+            // start/end delimiter pairs for display math
+            ["$$", "$$"],
+            ["\\[", "\\]"],
+          ],
+          processEscapes: false, // use \$ to produce a literal dollar sign
+          processEnvironments: true, // process \begin{xxx}...\end{xxx} outside math mode
+          processRefs: true, // process \ref{...} outside of math mode
+          digits: /^(?:[0-9]+(?:\{,\}[0-9]{3})*(?:\.[0-9]*)?|\.[0-9]+)/, // pattern for recognizing numbers
+          tags: "all", // or 'ams' or 'all'
+          tagSide: "right", // side for \tag macros
+          tagIndent: "0.8em", // amount to indent tags
+          useLabelIds: true, // use label name rather than tag for ids
+          maxMacros: 10000, // maximum number of macro substitutions per expression
+          maxBuffer: 5 * 1024, // maximum size for the internal TeX string (5K)
+          // baseURL:                   // URL for use with links to tags (when there is a <base> tag in effect)
+          // (document.getElementsByTagName('base').length === 0) ? '' : String(document.location).replace(/#.*$/, ''),
+          // function called when TeX syntax errors occur
+          formatError: (jax, err) => jax.formatError(err),
+        },
+      };
+    </script>
+    <script
+      type="text/javascript"
+      id="MathJax-script"
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"
+    ></script>
+    <script
+      type="text/javascript"
+      id="MathJax-script"
+      async
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+    ></script>
+
+    <!-- Core JS-->
+    <script type="text/javascript" src="static/js/scripts.js"></script>
+    <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
+
+    <style type="text/css">
+      .name {
+        font-family: "Times New Roman";
+      }
+      span {
+        font-size: large;
+        font-family: "Times New Roman";
+      }
+      /* img {
+          width: 600px;
+          height: 250px;
+          top:50%;
+          left:50%;
+          margin-top: 0px; 
+          margin-left: 0px; 
+        } */
+
+      .div_relationships {
+        display: table-cell;
+        width: 680px;
+        height: 150px;
+        vertical-align: middle;
+        text-align: center;
+        margin: auto;
+        margin-left: 0px;
+        top: 50%;
+        left: 50%;
+      }
+
+      .div_Architecture {
+        display: table-cell;
+        width: 655px;
+        height: 150px;
+        vertical-align: middle;
+        text-align: center;
+        margin: auto;
+        margin-left: 0px;
+        top: 50%;
+        left: 50%;
+      }
+
+      .div_networks {
+        display: table-cell;
+        width: 705px;
+        height: 100px;
+        vertical-align: middle;
+        text-align: center;
+        margin: auto;
+        margin-left: 0px;
+        top: 50%;
+        left: 50%;
+      }
+
+      .div_algorithms {
+        display: table-cell;
+        width: 847px;
+        height: 200px;
+        vertical-align: middle;
+        text-align: center;
+        margin: auto;
+        margin-left: 0px;
+        top: 50%;
+        left: 50%;
+      }
+
+      .img1 {
+        display: table-cell;
+        width: 855px;
+        height: 350px;
+        vertical-align: middle;
+        text-align: center;
+        margin: auto;
+        margin-left: 150px;
+        top: 50%;
+        left: 50%;
+      }
+
+      p {
+        font-family: "Times New Roman";
+      }
+      /* 图片修改大小    &#8194&#8194&#8194&#8194&#8194&#8194 */
+      #relationships {
+        width: 570px;
+        height: 210px;
+        top: 50%;
+        left: 50%;
+      }
+      #Architecture {
+        width: 548px;
+        height: 197px;
+        top: 50%;
+        left: 50%;
+      }
+      #networks {
+        width: 600px;
+        height: 230px;
+        top: 50%;
+        left: 50%;
+      }
+      #Algorithms {
+        width: 740px;
+        height: 305px;
+        top: 50%;
+        left: 50%;
+      }
+      #global {
+        width: 745px;
+        height: 405px;
+        top: 50%;
+        left: 50%;
+      }
+      #local {
+        width: 650px;
+        height: 350px;
+        top: 50%;
+        left: 50%;
+      }
+      #blanket {
+        width: 650px;
+        height: 350px;
+        top: 50%;
+        left: 50%;
+      }
+      .STYLE7 {
+        font-size: x-large;
+      }
+      .STYLE15 {
+        font-size: large;
+      }
+    </style>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <title>Causal Learner</title>
+  </head>
+
+  <body id="page-top">
+    <!-- Navigation-->
+    <nav
+      class="header navbar navbar-expand-lg navbar-light fixed-top shadow-sm"
+      id="mainNav"
+    >
+      <div class="container px-5">
+        <a
+          id="page-top-title"
+          class="navbar-brand fw-bold"
+          href="/index.html#page-top"
+          style="margin-left: 0; padding-left: 0"
+        ></a>
+
+        <!-- <a href="#page-top"><img src="static/assets/img/CUMT_LOGO.svg" style="width: 11rem;"></a> -->
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarResponsive"
+          aria-controls="navbarResponsive"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          MENU
+          <i class="bi-list"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
+            <li class="nav-item">
+              <a class="nav-link me-lg-3" href="/index.html#page-top">HOME</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link me-lg-3" href="/index.html#publications"
+                >PUBLICATIONS</a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link me-lg-3" href="/index.html#awards">AWARDS</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link me-lg-3" href="/index.html#projects"
+                >PROJECTS</a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link me-lg-3" href="/software.html">SOFTWARE</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <div style="padding-top: 80px">
+      <h1>
+        Causal Learner: A Toolbox for Causal Structure and Markov Blanket
+        Learning
+      </h1>
+    </div>
+
+    <div align="justify" class="STYLE7">
+      <span class="STYLE15"
+        >Written by Zhaolong Ling and Kui Yu.<br />
+        <b>
+          Click
+          <a
+            href="https://github.com/z-dragonl/Causal-Learner"
+            target="http://bigdata.ahu.edu.cn/causal-learner"
+            alt=""
+            >here</a
+          >
+          to download the latest stable release of Causal Learner.</b
+        ></span
+      >
+    </div>
+    <br />
+
+    <div>
+      <h2>Overview</h2>
+      <div align="justify">
+        <span
+          ><a
+            href="https://github.com/z-dragonl/Causal-Learner"
+            target="http://bigdata.ahu.edu.cn/causal-learner"
+            alt=""
+            >Causal Learner</a
+          >
+          is a toolbox for learning causal structure and Markov blanket (MB)
+          from data. It integrates functions for generating simulated Bayesian
+          network (BN) data, a set of state-of-the-art global causal structure
+          learning algorithms, a set of state-of-the-art local causal structure
+          learning algorithms, a set of state-of-the-art MB learning algorithms,
+          and functions for evaluating algorithms. Figure 1 gives examples of a
+          global causal structure, local causal structure, and MB (T in black is
+          a target node). The data generation part of Causal Learner is written
+          in R, and the rest of Causal Learner is written in MATLAB. Causal
+          Learner aims to provide researchers and practitioners with an
+          open-source platform for causal learning from data and for the
+          development and evaluation of new causal learning algorithms.<br />
+        </span>
+        <br />
+      </div>
+    </div>
+    <div class="div_relationships">
+      <img
+        id="relationships"
+        src="static/assets/img/relationships.jpg"
+        alt=""
+      />
+      <p>
+        Figure 1: Examples of a global causal structure, local causal structure,
+        and Markov blanket.
+      </p>
+    </div>
+
+    <div>
+      <h2>Architecture</h2>
+      <div align="justify">
+        <span>
+          Figure 2 shows the hierarchical architecture of Causal Learner, in
+          comparison with
+          <a
+            href="https://github.com/mensxmachina/CausalExplorer_1.5/tree/master/causal_explorer"
+            target="http://bigdata.ahu.edu.cn/causal-learner"
+            alt=""
+            >Causal Explorer</a
+          >. As Causal Explorer represents the state-of-the-art ten years ago,
+          it does not contain many new algorithms, and it does not have a data
+          generation or evaluation component. By contrast, Causal Learner
+          conceives a more ambitious blueprint. It aims to support the entire
+          causal structure and MB learning procedure, including data generation,
+          state-of-the-art algorithms, and algorithm evaluation.
+        </span>
+        <br />
+        <br />
+      </div>
+      <div class="div_Architecture">
+        <img id="Architecture" src="static/assets/img/Architecture.jpg" />
+
+        <p>Figure 2: The architecture of Causal Learner.</p>
+      </div>
+    </div>
+    <div>
+      <h2>Data</h2>
+      <div align="justify">
+        <span>
+          In the data layer, Causal Learner generates two types of data:
+          discrete data and continuous data. The data are generated based on
+          various benchmark BNs (written in R), and the details of each BN are
+          shown in Table 1. The data can also be generated by the
+          <a
+            href="https://www.bnlearn.com/"
+            target="http://bigdata.ahu.edu.cn/causal-learner"
+            alt=""
+            >bnlearn</a
+          >
+          toolbox, but the generated data are encapsulated in R language classes
+          and cannot be easily used by researchers using other programming
+          languages. Causal Learner can output the generated data as text for
+          easy and flexible use.
+
+          <br />
+        </span>
+        <br />
+      </div>
+      <div class="div_networks">
+        <img
+          src="static/assets/img/Benchmark Bayesian networks.png"
+          name="networks"
+          id="networks"
+        />
+        <br />
+        <p>Table 1: Benchmark Bayesian networks.</p>
+      </div>
+    </div>
+    <div>
+      <h2>Algorithm</h2>
+      <div align="justify">
+        <span>
+          In the algorithm layer, Causal Learner implements 7 global causal
+          structure learning algorithms, 4 local causal structure learning
+          algorithms, and 15 MB learning algorithms (written in MATLAB). Table 2
+          lists all of these algorithms. To ensure the correctness of the
+          algorithms implemented in Causal Learner, unless the original
+          implementations of the algorithms are not released, we always try to
+          integrate the original versions rather than re-implement them.
+          Additionally, we have used the same data to evaluate the algorithms in
+          Causal Learner. Compared with Causal Explorer, the results of Causal
+          Learner are comparable in accuracy and much more efficient.
+        </span>
+        <br />
+
+        <br />
+      </div>
+      <div class="div_algorithms">
+        <img id="Algorithms" src="static/assets/img/Algorithms.png" />
+        <br />
+        <p>
+          Table 2: Algorithms included in (indicated by •) and absent from
+          (indicated by ◦) Causal Learner and Causal Explorer.
+        </p>
+      </div>
+    </div>
+    <h2>Evaluation</h2>
+    <div>
+      <div align="justify">
+        <span>
+          In the evaluation layer, Causal Learner provides abundant metrics for
+          evaluating causal structure and MB learning algorithms (written in
+          MATLAB). In terms of accuracy, global and local causal structure
+          learning algorithms are evaluated using the same 7 metrics: Ar_F1 (Ar
+          denotes arrow), Ar_precision, Ar_recall, SHD, Miss, Extra, and
+          Reverse. MB learning algorithms are evaluated using 3 metrics: Adj_F1
+          (Adj denotes adjacent), Adj_precision, and Adj_recall. In terms of
+          efficiency, global causal structure learning algorithms are evaluated
+          using running time, while both local causal structure and MB learning
+          algorithms are evaluated using running time and the number of
+          conditional independence tests.
+        </span>
+        <br />
+        <br />
+      </div>
+    </div>
+    <div>
+      <div>
+        <h2>Usage Example</h2>
+        <div>
+          <div align="justify">
+            <span class="STYLE1">
+              Causal Learner comes with a
+              <a
+                href="https://github.com/z-dragonl/Causal-Learner/blob/main/Documentation/Manual.pdf"
+                target="http://bigdata.ahu.edu.cn/causal-learner"
+                alt=""
+                >manual</a
+              >
+              that details the BNs, algorithms, evaluation metrics, and how each
+              function is used. Figure 3 shows an example of global causal
+              structure learning using Causal Learner. As shown in the figure,
+              Causal Learner needs only 4 input parameters when learning a
+              global causal structure, while Causal Explorer requires additional
+              parameters such as “domain count”. Thus, Causal Learner uses a
+              cleaner input format than that of Causal Explorer.
+            </span>
+
+            <br />
+            <br />
+          </div>
+        </div>
+        <div class="img1">
+          <img
+            id="global"
+            src="static/assets/img/An example of global causal structure learning.jpg"
+          />
+          <br />
+          <p>
+            Figure 3: An example of using Causal Learner to learn a global
+            causal structure.
+          </p>
+        </div>
+
+        <br />
+      </div>
+    </div>
+
+    <!-- Footer-->
+    <!-- <footer class="bg-bottom text-center py-5">
+      <div class="container px-5">
+        <div class="text-white-50 small">
+          <div id="copyright-text" class="mb-2"></div>
+          <a id="github-link" href="https://github.com/z-dragonl">Github</a>
+          <span class="mx-1">&middot;</span>
+          <a
+            id="license-link"
+            href="https://github.com/z-dragonl/zlling.github.io/blob/main/LICENSE"
+            >License</a
+          >
+        </div>
+      </div>
+    </footer> -->
+  </body>
+</html>
