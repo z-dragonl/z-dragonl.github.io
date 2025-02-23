@@ -11,11 +11,11 @@
 
 <p style="text-indent: 2em; text-align: justify; margin:0 3mm 7mm 0;">主要研究方向为数据挖掘、因果推理等。近年来在国际高水平期刊（如 IEEE TPAMI、IEEE TKDE、ACM TIST、ACM TKDD 等）和国际高水平会议（如 AAAI、ACM MM、IJCNN 等）发表论文 20 余篇，担任 IEEE TKDE、IEEE TNNLS、IEEE TBD 等高水平期刊审稿人，以及 ICML、KDD、AAAI、IJCAI 等国际高水平会议的 PC member。目前主持/参与国家重点研发计划课题、国家自然科学基金面上项目以及国家自然科学基金青年项目等 5 项。</p>
 
-#### Email
+<!-- #### Email
 
 zlling\@ahu.edu.cn
 
 #### Research Interests
 
 1. 数据挖掘（特征选择、分类、聚类）
-2. 因果推理（因果特征选择、因果结构学习、因果效应估计）
+2. 因果推理（因果特征选择、因果结构学习、因果效应估计）-->
