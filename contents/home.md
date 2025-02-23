@@ -15,8 +15,7 @@
 
 zlling\@ahu.edu.cn
 
-<!--#### Research Interests-->
-#### 研究方向
+#### Research Interests
 
 1. 数据挖掘（特征选择、分类、聚类）
 2. 因果推理（因果特征选择、因果结构学习、因果效应估计）
