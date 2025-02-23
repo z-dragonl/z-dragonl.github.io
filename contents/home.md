@@ -2,8 +2,8 @@
 <!-- [[DBLP]](https://dblp.org/pid/250/6473.html)&ensp;&ensp;[[Google Scholar]](https://scholar.google.com.hk/citations?hl=zh-CN&user=uw0G5o8AAAAJ) -->
 
 <div style="margin-top: 5mm;">
-  <span style="display: inline-block; margin-right: 1.2em">[![zlling](https://img.shields.io/badge/zlling-DBLP-blue?logo=dblp&logoColor=blue)](https://dblp.org/pid/250/6473.html)</span>
-  <span style="display: inline-block; margin-right: 1.2em">[![zlling](https://img.shields.io/badge/zlling-Google_Scholar-blue?logo=Google)](https://scholar.google.com.hk/citations?hl=zh-CN&user=uw0G5o8AAAAJ)</span>
+  <span style="display: inline-block; margin-right: 1.1em">[![zlling](https://img.shields.io/badge/zlling-DBLP-blue?logo=dblp&logoColor=blue)](https://dblp.org/pid/250/6473.html)</span>
+  <span style="display: inline-block; margin-right: 1.1em">[![zlling](https://img.shields.io/badge/zlling-Google_Scholar-blue?logo=Google)](https://scholar.google.com.hk/citations?hl=zh-CN&user=uw0G5o8AAAAJ)</span>
   [![zlling](https://img.shields.io/badge/zlling-Email-blue?logo=minutemailer&logoColor=blue)](mailto:zlling@ahu.edu.cn)
 </div>
 
