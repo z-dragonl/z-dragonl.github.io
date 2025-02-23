@@ -1,6 +1,6 @@
 <h4 style="margin: 0.75em 0; padding: 2px 0; border-bottom: 1px solid #eee; line-height: 1.8">十篇代表作：</h4>
 
-[1] <span style="font-weight: bold;">Zhaolong Ling</span>, Jiale Yu, Yiwen Zhang, Debo Cheng, Peng Zhou, Xingyu Wu, Bingbing Jiang, and Kui Yu. Local Causal Discovery without Causal Sufficiency[C]//Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI’ 25). Accepted. (CCF A)
+[1] <span style="font-weight: bold;">Zhaolong Ling</span>, Jiale Yu, Yiwen Zhang, Debo Cheng, Peng Zhou, Xingyu Wu, Bingbing Jiang, and Kui Yu. Local Causal Discovery without Causal Sufficiency[C]//Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI’ 25). Accepted. (CCF-A)
 
 [2] <span style="font-weight: bold;">Zhaolong Ling</span>, Jingxuan Wu, Yiwen Zhang, Peng Zhou, Xingyu Wu, Kui Yu, and Xindong Wu. Label-Aware Causal Feature Selection[J]. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025, 37(3): 1268-1281. （CCF-A）
 
