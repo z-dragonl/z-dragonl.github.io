@@ -1,8 +1,6 @@
 <!-- [![zlling](https://img.shields.io/badge/zlling-github-blue?logo=github)](https://github.com/z-dragonl) -->
 <!-- [[DBLP]](https://dblp.org/pid/250/6473.html)&ensp;&ensp;[[Google Scholar]](https://scholar.google.com.hk/citations?hl=zh-CN&user=uw0G5o8AAAAJ) -->
 
-复制
-
 <div style="display: flex; flex-wrap: wrap; gap: 1.1em; margin-top: 1em; align-items: center">
   <!-- Email -->
   <a href="mailto:zlling@ahu.edu.cn" 
