@@ -8,9 +8,9 @@
 
 - International Conference on Machine Learning (ICML)
 
-- Knowledge Discovery and Data Mining (KDD)
-
 - International Conference on Learning Representations (ICLR)
+
+- Knowledge Discovery and Data Mining (KDD)
 
 - Association for the Advancement of Artificial Intelligence (AAAI)
 
