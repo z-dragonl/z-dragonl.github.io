@@ -1,17 +1,4 @@
-<!-- [![zlling](https://img.shields.io/badge/zlling-github-blue?logo=github)](https://github.com/z-dragonl) -->
-<!-- [[DBLP]](https://dblp.org/pid/250/6473.html)&ensp;&ensp;[[Google Scholar]](https://scholar.google.com.hk/citations?hl=zh-CN&user=uw0G5o8AAAAJ) -->
-
-<div style="display: flex; flex-wrap: wrap; gap: 1.1em; margin-top: 1em; align-items: center">
-  <!-- Email -->
-  <a href="mailto:zlling@ahu.edu.cn" 
-     target="_blank" 
-     rel="noopener noreferrer"
-     style="display: inline-flex; align-items: center; text-decoration: none">
-    <img src="https://img.shields.io/badge/zlling-Email-blue?logo=maildotru&logoColor=white"
-         alt="Email"
-         style="height:22px; border:0; object-fit: contain">
-  </a>
-
+<div style="display: flex; flex-wrap: wrap; gap: 1em; margin-top: 1em; align-items: center">
   <!-- DBLP -->
 
 <a href="https://dblp.org/pid/250/6473.html" 
@@ -53,6 +40,17 @@
      style="display: inline-flex; align-items: center; text-decoration: none">
 <img src="https://img.shields.io/badge/zlling-ORCID-blue?logo=orcid&logoColor=white"
          alt="ORCID"
+         style="height:22px; border:0; object-fit: contain">
+</a>
+
+  <!-- Email -->
+
+<a href="mailto:zlling@ahu.edu.cn" 
+     target="_blank" 
+     rel="noopener noreferrer"
+     style="display: inline-flex; align-items: center; text-decoration: none">
+<img src="https://img.shields.io/badge/zlling-Email-blue?logo=maildotru&logoColor=white"
+         alt="Email"
          style="height:22px; border:0; object-fit: contain">
 </a>
 
