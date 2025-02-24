@@ -1,26 +1,63 @@
 <!-- [![zlling](https://img.shields.io/badge/zlling-github-blue?logo=github)](https://github.com/z-dragonl) -->
 <!-- [[DBLP]](https://dblp.org/pid/250/6473.html)&ensp;&ensp;[[Google Scholar]](https://scholar.google.com.hk/citations?hl=zh-CN&user=uw0G5o8AAAAJ) -->
 
-<div style="display: flex; flex-wrap: wrap; gap: 1.1em; margin-top: 1em;">
-  <a href="mailto:zlling@ahu.edu.cn" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center">
-    <img src="https://img.shields.io/badge/zlling-Email-blue?logo=maildotru&logoColor=white" alt="Email" style="margin:0;height:22px">
-  </a>
-  
-  <a href="https://dblp.org/pid/250/6473.html" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center">
-    <img src="https://img.shields.io/badge/zlling-DBLP-blue?logo=dblp&logoColor=white" alt="DBLP" style="margin:0;height:22px">
+复制
+
+<div style="display: flex; flex-wrap: wrap; gap: 1.1em; margin-top: 1em; align-items: center">
+  <!-- Email -->
+  <a href="mailto:zlling@ahu.edu.cn" 
+     target="_blank" 
+     rel="noopener noreferrer"
+     style="display: inline-flex; text-decoration: none">
+    <img src="https://img.shields.io/badge/zlling-Email-blue?logo=maildotru&logoColor=white"
+         alt="Email"
+         style="height:22px; border:0; vertical-align: middle">
   </a>
 
-  <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=uw0G5o8AAAAJ" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center">
-    <img src="https://img.shields.io/badge/zlling-Google_Scholar-blue?logo=google-scholar&logoColor=white" alt="Google Scholar" style="margin:0;height:22px">
-  </a>
+  <!-- DBLP -->
 
-  <a href="https://www.researchgate.net/profile/Zhaolong-Ling?ev=hdr_xprf" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center">
-    <img src="https://img.shields.io/badge/zlling-ResearchGate-blue?logo=researchgate&logoColor=white" alt="ResearchGate" style="margin:0;height:22px">
-  </a>
+<a href="https://dblp.org/pid/250/6473.html" 
+     target="_blank" 
+     rel="noopener noreferrer"
+     style="display: inline-flex; text-decoration: none">
+<img src="https://img.shields.io/badge/zlling-DBLP-blue?logo=dblp&logoColor=white"
+         alt="DBLP"
+         style="height:22px; border:0; vertical-align: middle">
+</a>
 
-  <a href="https://orcid.org/0000-0003-4812-6676" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center">
-    <img src="https://img.shields.io/badge/zlling-ORCID-blue?logo=orcid&logoColor=white" alt="ORCID" style="margin:0;height:22px">
-  </a>
+  <!-- Google Scholar -->
+
+<a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=uw0G5o8AAAAJ" 
+     target="_blank" 
+     rel="noopener noreferrer"
+     style="display: inline-flex; text-decoration: none">
+<img src="https://img.shields.io/badge/zlling-Google_Scholar-blue?logo=google-scholar&logoColor=white"
+         alt="Google Scholar"
+         style="height:22px; border:0; vertical-align: middle">
+</a>
+
+  <!-- ResearchGate -->
+
+<a href="https://www.researchgate.net/profile/Zhaolong-Ling?ev=hdr_xprf" 
+     target="_blank" 
+     rel="noopener noreferrer"
+     style="display: inline-flex; text-decoration: none">
+<img src="https://img.shields.io/badge/zlling-ResearchGate-blue?logo=researchgate&logoColor=white"
+         alt="ResearchGate"
+         style="height:22px; border:0; vertical-align: middle">
+</a>
+
+  <!-- ORCID -->
+
+<a href="https://orcid.org/0000-0003-4812-6676" 
+     target="_blank" 
+     rel="noopener noreferrer"
+     style="display: inline-flex; text-decoration: none">
+<img src="https://img.shields.io/badge/zlling-ORCID-blue?logo=orcid&logoColor=white"
+         alt="ORCID"
+         style="height:22px; border:0; vertical-align: middle">
+</a>
+
 </div>
 
 <!-- <span style="display: inline-block; margin-right: 1.1em">[![zlling](https://img.shields.io/badge/zlling-Email-blue?logo=maildotru&logoColor=white)](mailto:zlling@ahu.edu.cn)</span>
