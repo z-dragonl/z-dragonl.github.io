@@ -1,5 +1,29 @@
-- 指导本科生获得中国机器人大赛暨 RoboCup 机器人世界杯中国赛（全国大学生竞赛排行榜项目37）一等奖 2 项，二等奖 3 项，三等奖 1 项
+# 社会兼职
 
-- 指导本科生获得安徽省“互联网+”大学生创新创业大赛金奖 3 项，银奖 2 项
+- 安徽省人工智能学会理事
 
-- 指导研究生获得国家奖学金、安徽省优秀毕业生、安徽大学优秀毕业生等
+- 安徽省人工智能学会因果与认知智能专委会秘书长
+
+# 国际顶级学术会议程序委员会委员（PC member）
+
+- International Conference on Machine Learning (ICML)
+
+- Knowledge Discovery and Data Mining (KDD)
+
+- International Conference on Learning Representations (ICLR)
+
+- Association for the Advancement of Artificial Intelligence (AAAI)
+
+- International Joint Conference on Artificial Intelligence (IJCAI)
+
+# 国际顶级期刊审稿人（Reviewer）
+
+- IEEE Transactions on Knowledge and Data Engineering (TKDE)
+
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+
+- ACM Transactions on Knowledge Discovery from Data (TKDD)
+
+- IEEE Transactions on Big Data (TBD)
+
+- IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
