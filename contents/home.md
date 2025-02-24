@@ -1,4 +1,17 @@
 <div style="display: flex; flex-wrap: wrap; gap: 1em; margin-top: 1em; align-items: center">
+
+
+  <!-- Email -->
+
+<a href="mailto:zlling@ahu.edu.cn" 
+     target="_blank" 
+     rel="noopener noreferrer"
+     style="display: inline-flex; align-items: center; text-decoration: none">
+<img src="https://img.shields.io/badge/zlling-Email-blue?logo=maildotru&logoColor=white"
+         alt="Email"
+         style="height:22px; border:0; object-fit: contain">
+</a>
+
   <!-- DBLP -->
 
 <a href="https://dblp.org/pid/250/6473.html" 
@@ -43,16 +56,7 @@
          style="height:22px; border:0; object-fit: contain">
 </a>
 
-  <!-- Email -->
 
-<a href="mailto:zlling@ahu.edu.cn" 
-     target="_blank" 
-     rel="noopener noreferrer"
-     style="display: inline-flex; align-items: center; text-decoration: none">
-<img src="https://img.shields.io/badge/zlling-Email-blue?logo=maildotru&logoColor=white"
-         alt="Email"
-         style="height:22px; border:0; object-fit: contain">
-</a>
 
 </div>
 
