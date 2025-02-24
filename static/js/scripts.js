@@ -3,8 +3,8 @@ const config_file = "config.yml";
 const section_names = [
   "home",
   "publications",
-  "awards",
   "projects",
+  "activities",
   "Software",
 ];
 
