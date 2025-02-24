@@ -1,10 +1,10 @@
-<h4 style="margin: 0.75em 0; padding: 2px 0; /* border-bottom: 1px solid #eee; */ line-height: 1.8">社会兼职</h4>
+<h4 style="margin: 0.75em 0 0 0; padding: 2px 0; /* border-bottom: 1px solid #eee; */ line-height: 1.8">社会兼职</h4>
 
 - 安徽省人工智能学会理事
 
 - 安徽省人工智能学会因果与认知智能专委会秘书长
 
-<h4 style="margin: 0.75em 0; padding: 2px 0; /* border-bottom: 1px solid #eee; */ line-height: 1.8">国际顶级学术会议程序委员会委员（PC member）</h4> 
+<h4 style="margin: 0.75em 0 0 0; padding: 2px 0; /* border-bottom: 1px solid #eee; */ line-height: 1.8">国际顶级学术会议程序委员会委员（PC member）</h4> 
 
 - International Conference on Machine Learning (ICML)
 
@@ -16,7 +16,7 @@
 
 - International Joint Conference on Artificial Intelligence (IJCAI)
 
-<h4 style="margin: 0.75em 0; padding: 2px 0; /* border-bottom: 1px solid #eee; */ line-height: 1.8">国际顶级期刊审稿人（Reviewer）</h4> 
+<h4 style="margin: 0.75em 0 0 0; padding: 2px 0; /* border-bottom: 1px solid #eee; */ line-height: 1.8">国际顶级期刊审稿人（Reviewer）</h4> 
 
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)
 
