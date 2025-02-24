@@ -6,10 +6,10 @@
   <a href="mailto:zlling@ahu.edu.cn" 
      target="_blank" 
      rel="noopener noreferrer"
-     style="display: inline-flex; text-decoration: none">
+     style="display: inline-flex; align-items: center; text-decoration: none">
     <img src="https://img.shields.io/badge/zlling-Email-blue?logo=maildotru&logoColor=white"
          alt="Email"
-         style="height:22px; border:0; vertical-align: middle">
+         style="height:22px; border:0; object-fit: contain">
   </a>
 
   <!-- DBLP -->
@@ -17,10 +17,10 @@
 <a href="https://dblp.org/pid/250/6473.html" 
      target="_blank" 
      rel="noopener noreferrer"
-     style="display: inline-flex; text-decoration: none">
+     style="display: inline-flex; align-items: center; text-decoration: none">
 <img src="https://img.shields.io/badge/zlling-DBLP-blue?logo=dblp&logoColor=white"
          alt="DBLP"
-         style="height:22px; border:0; vertical-align: middle">
+         style="height:22px; border:0; object-fit: contain">
 </a>
 
   <!-- Google Scholar -->
@@ -28,10 +28,10 @@
 <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=uw0G5o8AAAAJ" 
      target="_blank" 
      rel="noopener noreferrer"
-     style="display: inline-flex; text-decoration: none">
+     style="display: inline-flex; align-items: center; text-decoration: none">
 <img src="https://img.shields.io/badge/zlling-Google_Scholar-blue?logo=google-scholar&logoColor=white"
          alt="Google Scholar"
-         style="height:22px; border:0; vertical-align: middle">
+         style="height:22px; border:0; object-fit: contain">
 </a>
 
   <!-- ResearchGate -->
@@ -39,10 +39,10 @@
 <a href="https://www.researchgate.net/profile/Zhaolong-Ling?ev=hdr_xprf" 
      target="_blank" 
      rel="noopener noreferrer"
-     style="display: inline-flex; text-decoration: none">
+     style="display: inline-flex; align-items: center; text-decoration: none">
 <img src="https://img.shields.io/badge/zlling-ResearchGate-blue?logo=researchgate&logoColor=white"
          alt="ResearchGate"
-         style="height:22px; border:0; vertical-align: middle">
+         style="height:22px; border:0; object-fit: contain">
 </a>
 
   <!-- ORCID -->
@@ -50,10 +50,10 @@
 <a href="https://orcid.org/0000-0003-4812-6676" 
      target="_blank" 
      rel="noopener noreferrer"
-     style="display: inline-flex; text-decoration: none">
+     style="display: inline-flex; align-items: center; text-decoration: none">
 <img src="https://img.shields.io/badge/zlling-ORCID-blue?logo=orcid&logoColor=white"
          alt="ORCID"
-         style="height:22px; border:0; vertical-align: middle">
+         style="height:22px; border:0; object-fit: contain">
 </a>
 
 </div>
