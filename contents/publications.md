@@ -1,4 +1,4 @@
-<h4 style="margin: 0.75em 0; padding: 2px 0; border-bottom: 1px solid #eee; line-height: 1.8">十篇代表作：</h4>
+<h4 style="margin: 0.75em 0 0 0; padding: 2px 0; /* border-bottom: 1px solid #eee; */ line-height: 1.8">十篇代表作：</h4>
 
 [1] <span style="font-weight: bold;">Zhaolong Ling</span>, Jiale Yu, Yiwen Zhang, Debo Cheng, Peng Zhou, Xingyu Wu, Bingbing Jiang, and Kui Yu. Local Causal Discovery without Causal Sufficiency[C]//Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI’ 25). Accepted. (CCF-A)
 
@@ -20,7 +20,7 @@
 
 [10] <span style="font-weight: bold;">Zhaolong Ling</span>, Kui Yu, Hao Wang, Lin Liu, Wei Ding, and Xindong Wu. BAMB: A Balanced Markov Blanket Discovery Approach to Feature Selection[J]. ACM Transactions on Intelligent Systems and Technology (TIST), 2019, 10(5): 1-25. （CAAI-B）
 
-<h4 style="margin: 0.75em 0; padding: 2px 0; border-bottom: 1px solid #eee; line-height: 1.8">软件包：</h4>
+<h4 style="margin: 0.75em 0 0 0; padding: 2px 0; /* border-bottom: 1px solid #eee; */ line-height: 1.8">软件包：</h4>
 
 [11] <span style="font-weight: bold;">Zhaolong Ling</span>, Kui Yu, Yiwen Zhang, Lin Liu, and Jiuyong Li. Causal Learner: A Toolbox for Causal Structure and Markov Blanket Learning[J]. Pattern Recognition Letters, 2022, 163: 92-95. （CCF-C）<br>
 [[https://z-dragonl.github.io/causal-learner]](https://z-dragonl.github.io/causal-learner.html)
