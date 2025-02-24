@@ -1,4 +1,4 @@
-<div style="margin-top: 1em; padding-top: 0.5em;">
+<div style="margin-top: 0.8em; padding-top: 0.4em;">
 
 - 国家自然科学基金青年项目：基于马尔科夫毯的高维数据局部因果结构学习方法研究（62306002，2024.1-2026.12），主持；
 

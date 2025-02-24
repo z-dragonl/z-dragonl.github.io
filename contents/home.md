@@ -1,7 +1,29 @@
 <!-- [![zlling](https://img.shields.io/badge/zlling-github-blue?logo=github)](https://github.com/z-dragonl) -->
 <!-- [[DBLP]](https://dblp.org/pid/250/6473.html)&ensp;&ensp;[[Google Scholar]](https://scholar.google.com.hk/citations?hl=zh-CN&user=uw0G5o8AAAAJ) -->
 
-<span style="display: inline-block; margin-right: 1.1em">[![zlling](https://img.shields.io/badge/zlling-Email-blue?logo=maildotru&logoColor=white)](mailto:zlling@ahu.edu.cn)</span>
+<div style="display: flex; flex-wrap: wrap; gap: 1.1em; margin-top: 1em;">
+  <a href="mailto:zlling@ahu.edu.cn" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center">
+    <img src="https://img.shields.io/badge/zlling-Email-blue?logo=maildotru&logoColor=white" alt="Email" style="margin:0;height:22px">
+  </a>
+  
+  <a href="https://dblp.org/pid/250/6473.html" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center">
+    <img src="https://img.shields.io/badge/zlling-DBLP-blue?logo=dblp&logoColor=white" alt="DBLP" style="margin:0;height:22px">
+  </a>
+
+  <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=uw0G5o8AAAAJ" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center">
+    <img src="https://img.shields.io/badge/zlling-Google_Scholar-blue?logo=google-scholar&logoColor=white" alt="Google Scholar" style="margin:0;height:22px">
+  </a>
+
+  <a href="https://www.researchgate.net/profile/Zhaolong-Ling?ev=hdr_xprf" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center">
+    <img src="https://img.shields.io/badge/zlling-ResearchGate-blue?logo=researchgate&logoColor=white" alt="ResearchGate" style="margin:0;height:22px">
+  </a>
+
+  <a href="https://orcid.org/0000-0003-4812-6676" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center">
+    <img src="https://img.shields.io/badge/zlling-ORCID-blue?logo=orcid&logoColor=white" alt="ORCID" style="margin:0;height:22px">
+  </a>
+</div>
+
+<!-- <span style="display: inline-block; margin-right: 1.1em">[![zlling](https://img.shields.io/badge/zlling-Email-blue?logo=maildotru&logoColor=white)](mailto:zlling@ahu.edu.cn)</span>
 <span style="display: inline-block; margin-right: 1.1em">
 <a href="https://dblp.org/pid/250/6473.html" target="_blank" rel="noopener noreferrer">
 [![zlling](https://img.shields.io/badge/zlling-DBLP-blue?logo=dblp&logoColor=white)](https://dblp.org/pid/250/6473.html)
@@ -19,7 +41,7 @@
 </span>
 <a href="https://orcid.org/0000-0003-4812-6676" target="_blank" rel="noopener noreferrer">
 [![zlling](https://img.shields.io/badge/zlling-ORCID-blue?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4812-6676)
-</a>
+</a> -->
 
 <!-- <p style="text-indent: 2em;">凌兆龙，安徽大学计算机科学与技术学院副教授，硕士生导师。2020 年 6 月博士毕业于合肥工业大学计算机与信息学院。现为安徽省人工智能学会理事、安徽省人工智能学会因果与认知智能专委会秘书长。
 
