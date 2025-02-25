@@ -23,4 +23,4 @@
 <h4 style="margin: 1em 0 0.5em 0; padding: 2px 0; /* border-bottom: 1px solid #eee; */ line-height: 1.8">软件包：</h4>
 
 [11] <span style="font-weight: bold;">Zhaolong Ling</span>, Kui Yu, Yiwen Zhang, Lin Liu, and Jiuyong Li. Causal Learner: A Toolbox for Causal Structure and Markov Blanket Learning[J]. Pattern Recognition Letters, 2022, 163: 92-95. （CCF-C）<br>
-<a href="https://z-dragonl.github.io/causal-learner.html" onclick="window.open(this.href, '_blank'); return false;">[https://z-dragonl.github.io/causal-learner]</a>
+<a href="https://z-dragonl.github.io/causal-learner.html" onclick="window.open(this.href, '_blank'); return false;">https://z-dragonl.github.io/causal-learner</a>
