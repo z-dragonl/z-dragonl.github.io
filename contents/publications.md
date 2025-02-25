@@ -14,7 +14,7 @@
 
 <p style="text-align: justify;">[7] <span style="font-weight: bold;">Zhaolong Ling</span>, Bo Li, Yiwen Zhang, Kui Yu, Qingren Wang, and Xindong Wu. Causal Feature Selection with Efficient Spouses Discovery[J]. IEEE Transactions on Big Data (TBD), 2023, 9(2): 555-568.（CCF-C）</p>
 
-<p style="text-align: justify;">[8] <span style="font-weight: bold;">Zhaolong Ling</span>, Jingxuan Wu, Yiwen Zhang, Peng Zhou, Bingbing Jiang, Kui Yu, and Xindong Wu. Causal Feature Selection With Imbalanced Data[J]. IEEE Transactions on Emerging Topics on Computational Intelligence (TETCI), 2024, Accepted.（CAAI-B）</p>
+<p style="text-align: justify;">[8] <span style="font-weight: bold;">Zhaolong Ling</span>, Jingxuan Wu, Yiwen Zhang, Peng Zhou, Bingbing Jiang, Kui Yu, and Xindong Wu. Causal Feature Selection With Imbalanced Data[J]. IEEE Transactions on Emerging Topics on Computational Intelligence (TETCI), 2024, Accepted.<br>（CAAI-B）</p>
 
 <p style="text-align: justify;">[9] <span style="font-weight: bold;">Zhaolong Ling</span>, Kui Yu, Hao Wang, Lei Li, and Xindong Wu. Using Feature Selection for Local Causal Structure Learning[J]. IEEE Transactions on Emerging Topics on Computational Intelligence (TETCI), 2021, 5(4): 530-540. （CAAI-B）</p>
 
