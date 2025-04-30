@@ -1,11 +1,11 @@
 <h4 style="margin: 1em 0 0.5em 0; padding: 2px 0; line-height: 1.8">部分代表作：</h4>
 
 
-<p style="text-align: justify;">[1] <span style="font-weight: bold;">Zhaolong Ling</span>, Mengxiang Guo, Xingyu Wu, Debo Cheng, Peng Zhou, Tianci Li, and Zhangling Duan. Gradient-based Causal Feature Selection[C]//Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI'25). Accepted. (CCF-A)</p>
+<p style="text-align: justify;">[1] <span style="font-weight: bold;">Zhaolong Ling</span>, Mengxiang Guo, Xingyu Wu, Debo Cheng, Peng Zhou, Tianci Li, and Zhangling Duan. Gradient-based Causal Feature Selection[C]//Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI'25), accepted. (CCF-A)</p>
 
-<p style="text-align: justify;">[2] <span style="font-weight: bold;">Zhaolong Ling</span>, Honghui Peng, Yiwen Zhang, Debo Cheng, Xingyu Wu, Peng Zhou, and Kui Yu. Hybrid Local Causal Discovery[C]//Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI'25). Accepted. (CCF-A)</p>
+<p style="text-align: justify;">[2] <span style="font-weight: bold;">Zhaolong Ling</span>, Honghui Peng, Yiwen Zhang, Debo Cheng, Xingyu Wu, Peng Zhou, and Kui Yu. Hybrid Local Causal Discovery[C]//Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI'25), accepted. (CCF-A)</p>
 
-<p style="text-align: justify;">[3] <span style="font-weight: bold;">Zhaolong Ling</span>, Jiale Yu, Yiwen Zhang, Debo Cheng, Peng Zhou, Xingyu Wu, Bingbing Jiang, and Kui Yu. Local Causal Discovery without Causal Sufficiency[C]//Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI'25). 2025, 39(18): 18737-18745. (CCF-A)</p>
+<p style="text-align: justify;">[3] <span style="font-weight: bold;">Zhaolong Ling</span>, Jiale Yu, Yiwen Zhang, Debo Cheng, Peng Zhou, Xingyu Wu, Bingbing Jiang, and Kui Yu. Local Causal Discovery without Causal Sufficiency[C]//Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI'25), 2025, 39(18): 18737-18745. (CCF-A)</p>
 
 <p style="text-align: justify;">[4] <span style="font-weight: bold;">Zhaolong Ling</span>, Jingxuan Wu, Yiwen Zhang, Peng Zhou, Xingyu Wu, Kui Yu, and Xindong Wu. Label-Aware Causal Feature Selection[J]. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025, 37(3): 1268-1281. （CCF-A）</p>
 
